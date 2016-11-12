@@ -13,7 +13,7 @@ Download UCI HAR Dataset and store file locally
 
 Load dplyr and tidyr
 
-Unzip lically stored zip file
+Unzip locally stored zip file
 
 Load activity labels
 
@@ -49,9 +49,9 @@ View the second tidy data set: mydata2
   
 ###Some additional notes about the code in 'run_analysis.R'
 
-> The end result can be seen by running the code in RStudio and looking at the datasets
+The end result can be seen by running the code in RStudio and looking at the datasets
 mydata and mydata2 because I have included the command to "View()" both of these datasets in 
 my code, so the data sets will automatically pop up upon running the full script in RStudio.
 
-> If you already have the UCI HAR Dataset on your machine then skip the part of the script 
+If you already have the UCI HAR Dataset on your machine then skip the part of the script 
 which downloads these data and start at line 6 with the loading of the dplyr and tidyr libraries
