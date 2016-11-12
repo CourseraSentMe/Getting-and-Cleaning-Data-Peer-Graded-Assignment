@@ -54,4 +54,4 @@ mydata and mydata2 because I have included the command to "View()" both of these
 my code, so the data sets will automatically pop up upon running the full script in RStudio.
 
 If you already have the UCI HAR Dataset on your machine then skip the part of the script 
-which downloads these data and start at line 6 with the loading of the dplyr and tidyr libraries
+which downloads these data and start at line 6 with the loading of the dplyr and tidyr libraries.
